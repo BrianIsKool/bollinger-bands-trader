@@ -28,4 +28,4 @@ The system collects data from Binance (BTC/USDT pair) in real-time, processes th
 To install the required libraries, run the following command:
 
 ```bash
-pip install asyncpg binance
+pip install asyncpg

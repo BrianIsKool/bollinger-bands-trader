@@ -1,0 +1,1 @@
+# bollinger-bands-trader
